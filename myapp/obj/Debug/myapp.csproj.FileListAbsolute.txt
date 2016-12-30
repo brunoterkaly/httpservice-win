@@ -86,6 +86,5 @@ C:\devops-win\docker\myapp-project\myapp\bin\System.Web.WebPages.xml
 C:\devops-win\docker\myapp-project\myapp\bin\System.Web.WebPages.Deployment.xml
 C:\devops-win\docker\myapp-project\myapp\bin\System.Web.WebPages.Razor.xml
 C:\devops-win\docker\myapp-project\myapp\bin\Antlr3.Runtime.pdb
-C:\devops-win\docker\myapp-project\myapp\obj\Debug\myapp.csprojResolveAssemblyReference.cache
 C:\devops-win\docker\myapp-project\myapp\obj\Debug\myapp.dll
 C:\devops-win\docker\myapp-project\myapp\obj\Debug\myapp.pdb
